@@ -11,4 +11,8 @@
 
 Добавили еще текст в браузере
 
+
+![apple](Avengers.jpg)
+
 ![orange](IMG_6289.jpg)
+
